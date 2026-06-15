@@ -19,3 +19,11 @@ function showMassage(){
     }
  })
 })
+
+function  validateform(){
+    let name = document.getElementById("fullname").value;
+    if(name.length < 3){
+        alert("name must contain at least 3 characters.");
+        return false;
+    }
+}
