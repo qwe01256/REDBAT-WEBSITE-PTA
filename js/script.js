@@ -1,8 +1,8 @@
-document.getElementById("enquiryForm").addEventListener("submit", function(event){
-    let name = document.getElementById("name").value;
-    if(nam===""){
-        alert("please enter your name");
-    }
+document.getElementById("enquiriesForm).addEventlistener("submit",function(e){
+    e.preventDefault();
+    let product = document.getElementById("product").value;
+   document.getElemetById("result").innerHTML =
+       product+ " is available. estimate price: R399.";
 })
 function showMassage(){
     alert("get 20% selected redbat product!");
