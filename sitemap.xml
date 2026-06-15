@@ -1,0 +1,24 @@
+<?xml version="1.0" encording="UTF-8"?>
+<urlset xmlns=http://www.sitemap.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://yourwebsite.com/index.html</loc>
+  </url>
+
+  <url>
+    <loc>https://yourwebite.com/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https:/yourwebside.com/product.html</loc>
+  </url>
+
+  <url>
+    <loc>https:/yourwebsite.com/product.html</loc>
+  </url>
+
+  <url>
+    <loc>https:/yourwebsite.com/contact.html</loc>
+  </url>
+
+</urlset>
